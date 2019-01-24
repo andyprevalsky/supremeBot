@@ -32,8 +32,8 @@ NOTE: Steps below are for OSX, Windows steps may vary
 7. Edit file "call_function.js"
 	-	search for file name in established folder "src"
 	-	open and edit "function getPageCache(opt_doc)"
-		-	replace var key value with randnom string value
-			: "$cdc" -> "Kswisha"
+		-	replace var key value with random string value
+			: "$cdc" -> "randomstr.asdfghjkl"
 	- save file
 
 8. Install Ninja
